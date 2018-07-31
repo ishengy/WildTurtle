@@ -1,0 +1,11 @@
+name: concept
+title: WT
+account: ivansheng
+server: shinyapps.io
+appId: 221554
+bundleId: 1025688
+url: https://ivansheng.shinyapps.io/concept/
+when: 1507923146.67506
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Spring2015.xlsx

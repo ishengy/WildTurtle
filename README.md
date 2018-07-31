@@ -1,5 +1,5 @@
 # WildTurtle
-UI.R > UI development of dashboard
+UI.R > Interface of dashboard built via Shiny on R
 
 Server.R > Calculations and graphs done on server
 

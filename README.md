@@ -1,4 +1,4 @@
-# WildTurtle
+# WildTurtle LCS Dashboard
 UI.R > Interface of dashboard built via Shiny on R
 
 Server.R > Calculations and graphs done on server
